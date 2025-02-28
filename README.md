@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
   
 ## 💻 My Tech Stack:
 
-  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,git,tailwind,nodejs,express,react,)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,git,tailwind,nodejs,express,typescript,react,)](https://skillicons.dev)
   
 </div>
